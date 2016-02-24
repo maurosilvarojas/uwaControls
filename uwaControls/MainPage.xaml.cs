@@ -29,7 +29,7 @@ namespace uwaControls
 
         private void radioButton_Checked(object sender, RoutedEventArgs e)
         {
-            textBlock.Text = (bool)radioButton.IsChecked ?;
+            //textBlock.Text = (bool)radioButton.IsChecked ?
         }
 
         private void radioButton1_Checked(object sender, RoutedEventArgs e)
